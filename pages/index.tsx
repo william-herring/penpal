@@ -9,7 +9,7 @@ const Home: NextPage = () => {
         <title>Penpal</title>
       </Head>
       <div>
-        <Image src='/logo.svg' alt='Penpal logo' width={200} height={64} />
+        <h1></h1>
       </div>
     </div>
   )
